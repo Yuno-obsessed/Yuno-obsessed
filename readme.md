@@ -1,5 +1,5 @@
-<h2 align="center"><i>Yuno-obsessed</i></h1>
-<p align="center"><i>Networking and low level programming enjoyer™</i></p>
+<h2 align="center"><i> :fire: Yuno-obsessed :fire:</i></h1>
+<p align="center"><i> :axe: Networking and low level programming enjoyer™ :axe:</i></p>
 
 
 <hr>
