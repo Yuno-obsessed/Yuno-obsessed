@@ -18,8 +18,6 @@
 
 
 
-<details align="center">
-<summary>GitHub Metrics</summary>
-<img src="./github-metrics.svg">
+<h1 align="center"><i>GitHub Metrics</i></h1>
+<a><img align="center" src="./github-metrics.svg"></a> 
 
-</details>
