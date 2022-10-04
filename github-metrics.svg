@@ -2366,7 +2366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bevyengine/bevy</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A refreshingly simple data-driven game engine built in Rust</div>
@@ -2419,7 +2419,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tauri-apps/tauri</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build smaller, faster, and more secure desktop applications with a web frontend.</div>
@@ -2453,7 +2453,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        1.83k
+                                        1.84k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2525,7 +2525,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gogs/gogs</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Gogs is a painless self-hosted Git service</div>
@@ -3144,7 +3144,7 @@ Made a basical structure of the app, kept the documentation</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Oct 2022, 21:21:03 (timezone Europe/Rome) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 4 Oct 2022, 22:21:51 (timezone Europe/Rome) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
