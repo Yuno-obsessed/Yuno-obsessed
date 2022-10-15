@@ -4,8 +4,9 @@
 
 <hr>
 
-<h3 align="center"><i>*Always challenge yourself*</i></h2>
-<h3 align="center"><i>*Stay wild*</i></h2>
+<h3 align="center"><i>***Always challenge yourself***</i></h2>
+<h3 align="center"><i>***Stay wild***</i></h2>
+<h3 align="center"><i>***Be independent and proud***</i></h2>
 <p align="center">
 <a href="https://discord.com/users/566566562031468554"><code><img src="https://discord.c99.nl/widget/theme-3/566566562031468554.png" height="80px"></code></a>
 </p>
