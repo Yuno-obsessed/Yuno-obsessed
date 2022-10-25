@@ -18,7 +18,7 @@
 
 ---
 
-<img src="/assets/anime_eye_cropped.gif"/>
+<img src="assets/anime_eye_cropped.gif"/>
 
 ---
 
