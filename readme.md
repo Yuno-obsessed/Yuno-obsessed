@@ -18,7 +18,7 @@
 
 ---
 
-<img src="https://im2.ezgif.com/tmp/ezgif-2-1ab81c57f2.gif"/>
+<img src="/assets/anime_eye_cropped.gif"/>
 
 ---
 
