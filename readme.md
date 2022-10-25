@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuno-obsessed&theme=tokyonight&layout=compact&hide=css" height="170" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Yuno-obsessed&theme=tokyonight&show_icons=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuno-obsessed&theme=tokyonight&layout=compact&hide=css" width="360.6" height="170" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Yuno-obsessed&theme=tokyonight&show_icons=true" height="170" />
 </div>
 
 ---
