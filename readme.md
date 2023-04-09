@@ -1,9 +1,6 @@
 <h2 align="center"><i>Yuno-obsessed</i></h1>
 <p align="center"><i> :axe: Backend and software architecture enjoyer™ :axe:</i></p>
 <hr>
-<h3 align="center"><i>***Always challenge yourself***</i></h2>
-<h3 align="center"><i>***Stay wild***</i></h2>
-<h3 align="center"><i>***Be independent and proud***</i></h2>
 
 ---
 
