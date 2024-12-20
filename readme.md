@@ -13,9 +13,10 @@
 </div>
 
 ---
+<!---
 
 <img src="assets/anime_eye_cropped.gif"/>
-
+-->
 ---
 
 
