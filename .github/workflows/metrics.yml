@@ -31,4 +31,6 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_people: yes
-         
+          filename: metrics.plugin.leetcode.svg
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
