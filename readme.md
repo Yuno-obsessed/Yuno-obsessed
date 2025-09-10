@@ -14,7 +14,9 @@
 
 ---
 
+<div align="center">
 <img src="https://github.com/Yuno-obsessed/Yuno-obsessed/blob/main/metrics.plugin.leetcode.svg" />
+</div>
 <!---
 
 <img src="assets/anime_eye_cropped.gif"/>
